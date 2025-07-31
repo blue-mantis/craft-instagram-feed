@@ -23,7 +23,7 @@
     "issues": "https://github.com/codemonauts/craft-instagram-feed/issues"
   },
   "require": {
-    "craftcms/cms": "^4.0.0",
+    "craftcms/cms": "^5.0.0",
     "ext-json": "*"
   },
   "autoload": {
